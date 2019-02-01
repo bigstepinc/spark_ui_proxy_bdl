@@ -1,1 +1,1 @@
-# spark1.6-jupyter4.1
+proxy spark ui
